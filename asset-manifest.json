@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/contador-de-clics/static/css/main.11bb53f0.css",
+    "main.js": "/contador-de-clics/static/js/main.ab60091b.js",
+    "index.html": "/contador-de-clics/index.html",
+    "main.11bb53f0.css.map": "/contador-de-clics/static/css/main.11bb53f0.css.map",
+    "main.ab60091b.js.map": "/contador-de-clics/static/js/main.ab60091b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.11bb53f0.css",
+    "static/js/main.ab60091b.js"
+  ]
+}
