@@ -2,7 +2,7 @@
 
 ## Descripción 🏝
 
-Este es un proyecto creado con HTML/CSS/JS.
+Este es un proyecto creado con HTML/CSS/JS y reactJS.
 
 ## Autor ✒️
 **Maximo Garmasar Vazquez**
